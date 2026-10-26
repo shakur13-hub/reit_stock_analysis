@@ -22,7 +22,7 @@ NumPy - numerical calculations
 Methodology
 
 The project uses Python to load and process REIT stock data, calculate relevant financial metrics and investigate relationships between stock returns
-Covariance is used to examine whether the returns of two assets tend to move together. This provides insight into how different REIT stocks may behave when considered as part of an investment portfolio,
+Covariance is used to examine whether the returns of two assets tend to move together. This provides insight into how different REIT stocks may behave when considered as part of an investment portfolio.
 
 Key Concepts
 
@@ -45,5 +45,6 @@ How to Run
 
 Disclaimer
 
-This project is for educational and analytical purposes only. It does not constitute financial or investment advice
+This project is for educational and analytical purposes only. It does not constitute financial or investment advice.
+
 This projects objectives were derived through Codecademy
